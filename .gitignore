@@ -1,7 +1,7 @@
 car_dataset_labels.csv
 training_image_set.tgz
 data 
-experiments
+##experiments
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
